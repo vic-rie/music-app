@@ -1,0 +1,15 @@
+# Environment
+.venv/
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Environnement local / secrets
+.env
