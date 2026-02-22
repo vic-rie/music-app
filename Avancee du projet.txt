@@ -1,0 +1,11 @@
+#   21-02 :
+- Renseignement sur le fonctionnement global du projet
+- Création de la structure de fichier
+- Installation de la dernière version de Python via le guide valorem
+- Création d'un environnement virtuel qui utilise la version de python indiquée
+- Configuration de VSCode pour que l'interpréteur python soit celui de l'environnement virtuel
+
+  |--> pour la prochaine fois :
+		- installer GIT (utilité ?)
+		- configurer GIT ??
+		- continuer à remplir les fichier .py à l'aide de ChatGPT
