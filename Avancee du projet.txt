@@ -1,3 +1,11 @@
+github : https://github.com/vic-rie/music-app.git
+
+À chaque modification :
+git add .
+git commit -m "Description des changements"
+git push
+
+
 #   21-02 :
 - Renseignement sur le fonctionnement global du projet
 - Création de la structure de fichier
@@ -9,3 +17,5 @@
 		- installer GIT (utilité ?)
 		- configurer GIT ??
 		- continuer à remplir les fichier .py à l'aide de ChatGPT
+
+Procédure github arrêtée à l'étape 4.
